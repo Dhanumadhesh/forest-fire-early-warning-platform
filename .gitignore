@@ -1,0 +1,38 @@
+# =========================
+# Frontend - React / Vite
+# =========================
+frontend/forest-fire-frontend/node_modules/
+frontend/forest-fire-frontend/dist/
+frontend/forest-fire-frontend/.env
+frontend/forest-fire-frontend/.env.local
+frontend/forest-fire-frontend/.env.*.local
+
+# =========================
+# Backend - Spring Boot
+# =========================
+backend/forest_fire_platform/target/
+backend/forest_fire_platform/.env
+backend/forest_fire_platform/src/main/resources/application-local.properties
+
+# =========================
+# Local configuration
+# =========================
+backend/forest_fire_platform/src/main/resources/application.properties
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+*.iml
+
+# =========================
+# Java
+# =========================
+*.class
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
